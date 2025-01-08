@@ -52,7 +52,7 @@ class ProxyConfig:
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
-            ChannelConfig("https://t.me/s/PrivateVPNs"),
+            ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt")
             # ChannelConfig("ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-1.csv")
