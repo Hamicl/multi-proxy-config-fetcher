@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-08T15:18:57.655513+00:00",
+  "timestamp": "2025-03-08T15:41:53.947649+00:00",
   "channels": [
     {
       "url": "https://t.me/s/vpnfail_vless",
@@ -8,11 +8,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.75,
-        "last_success": "2025-03-08T15:18:55.122355+00:00",
+        "overall_score": 86.82,
+        "last_success": "2025-03-08T15:41:49.624245+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 19,
         "valid_configs": 19,
         "unique_configs": 19,
-        "avg_response_time": 0.5,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.25,
-        "last_success": "2025-03-08T15:18:57.654898+00:00",
+        "overall_score": 99.75,
+        "last_success": "2025-03-08T15:41:51.822619+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -43,6 +43,29 @@
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 19,
+          "tuic://": 0
+        }
+      }
+    },
+    {
+      "url": "https://t.me/ConfigsHUB2",
+      "enabled": false,
+      "metrics": {
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
