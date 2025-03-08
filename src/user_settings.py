@@ -5,6 +5,7 @@
 SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DirectVPN",
+    "https://t.me/ConfigsHUB2",
     # Add more URLs here if you want to include additional sources.
 ]
 
