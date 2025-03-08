@@ -5,7 +5,7 @@
 SOURCE_URLS = [
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DirectVPN",
-    "https://t.me/ConfigsHUB2",
+    "https://t.me/s/ConfigsHUB2",
     # Add more URLs here if you want to include additional sources.
 ]
 
@@ -31,4 +31,4 @@ ENABLED_PROTOCOLS = {
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 14
+MAX_CONFIG_AGE_DAYS = 10
