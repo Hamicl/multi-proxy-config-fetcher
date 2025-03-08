@@ -3,7 +3,6 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-    "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     "https://t.me/s/vpnfail_vless",
     "https://t.me/s/DailyV2RY",
     "https://t.me/s/DirectVPN",
