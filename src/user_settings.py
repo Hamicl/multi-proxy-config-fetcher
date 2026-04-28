@@ -3,22 +3,69 @@
 # List of source URLs to fetch proxy configurations from.
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
-     "https://t.me/s/ar14n24b",
-     "https://t.me/s/SOSkeyNET",
-     "https://t.me/s/marambashi",
-     "https://t.me/s/hamedvpns",
-     "https://t.me/s/meliproxyy",
-     "https://t.me/s/wiki_tajrobe",
-     "https://t.me/s/persianvpnhub",
-     "https://t.me/s/sinavm",
-     "https://t.me/s/tikvpnir",
-     "https://t.me/s/v2ray_tz",
-     "https://t.me/s/capoit",
-     "https://t.me/s/free_netc",
-     "https://t.me/s/pewezavpn",
-     "https://t.me/s/configraygan",
-     "https://t.me/s/NetAccount",
-     "https://t.me/s/IraneAzad_Net"
+    "https://t.me/s/SOSkeyNET",
+    "https://t.me/s/ar14n24b",
+    "https://t.me/s/marambashi",
+    "https://t.me/s/hamedvpns",
+    "https://t.me/s/meliproxyy",
+    "https://t.me/s/wiki_tajrobe",
+    "https://t.me/s/persianvpnhub",
+    "https://t.me/s/sinavm",
+    "https://t.me/s/tikvpnir",
+    "https://t.me/s/v2ray_tz",
+    "https://t.me/s/capoit",
+    "https://t.me/s/free_netc",
+    "https://t.me/s/pewezavpn",
+    "https://t.me/s/configraygan",
+    "https://t.me/s/NetAccount",
+    "https://t.me/s/IraneAzad_Net"
+    "https://t.me/s/v2ray_alpha",
+    "https://t.me/s/v2rayngvpn",
+    "https://t.me/s/oneclickvpnkeys",
+    "https://t.me/s/proxy_kafee",
+    "https://t.me/s/darkvpnpro",
+    "https://t.me/s/parsashonam",
+    "https://t.me/s/configwireguard",
+    "https://t.me/s/lonup_m",
+    "https://t.me/s/v2ray_free_conf",
+    "https://t.me/s/privatevpns",
+    "https://t.me/s/directvpn",
+    "https://t.me/s/v2nodes",
+    "https://t.me/s/yebekhe",
+    "https://t.me/s/kevinzakarian",
+    "https://t.me/s/surfboardv2ray",
+    "https://t.me/s/v2ray_vpn_ir",
+    "https://t.me/s/mbtiuniverse",
+    "https://t.me/s/vpnclashfa",
+    "https://t.me/s/configir98",
+    "https://t.me/s/kurdconfing",
+    "https://t.me/s/shadowproxy66",
+    "https://t.me/s/v2rayalpha",
+    "https://t.me/s/mahsa_net",
+    "https://t.me/s/config_jo",
+    "https://t.me/s/vless_vpn_ch",
+    "https://t.me/s/v2rootconfigpilot",
+    "https://t.me/s/vmess_iran",
+    "https://t.me/s/vmessprotocol",
+    "https://t.me/s/zibanabz",
+    "https://t.me/s/v2ray_fspeed",
+    "https://t.me/s/configv2rayng",
+    "https://t.me/s/irvmess",
+    "https://t.me/s/v2rayhup",
+    "https://t.me/s/vpn_irane",
+    "https://t.me/s/darkvpnpro",
+    "https://t.me/s/v2rayirani",
+    "https://t.me/s/kingproxiy",
+    "https://t.me/s/proxymtpvpn",
+    "https://t.me/s/proxymtprotoir",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
+    "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
     #     "https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
     #     "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
     #     "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
@@ -182,7 +229,7 @@ USE_MAXIMUM_POWER = True
 
 # Desired number of configurations to fetch.
 # This is used only if USE_MAXIMUM_POWER is False.
-SPECIFIC_CONFIG_COUNT = 500
+SPECIFIC_CONFIG_COUNT = 10000
 
 # Dictionary of protocols to enable or disable.
 # Set each protocol to True to enable, False to disable.
@@ -198,4 +245,4 @@ ENABLED_PROTOCOLS = {
 
 # Maximum age of configurations in days.
 # Configurations older than this will be considered invalid.
-MAX_CONFIG_AGE_DAYS = 7
+MAX_CONFIG_AGE_DAYS = 100
