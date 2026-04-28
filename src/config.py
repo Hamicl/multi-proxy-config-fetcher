@@ -236,7 +236,7 @@ class ProxyConfig:
         
         channel.calculate_overall_score()
         
-        if channel.metrics.overall_score < 5:
+        if channel.metrics.overall_score < 1:
             channel.enabled = False
         
         if not any(c.enabled for c in self.SOURCE_URLS):
