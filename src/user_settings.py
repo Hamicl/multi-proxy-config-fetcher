@@ -61,7 +61,6 @@ SOURCE_URLS = [
     "https://t.me/s/farah_vpn",
     "https://t.me/s/mitivpn",
     "https://t.me/s/v2cnf",
-    "https://t.me/s/wbnet",
     "https://t.me/s/ConfigWireguard",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
