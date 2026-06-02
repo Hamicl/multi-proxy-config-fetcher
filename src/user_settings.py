@@ -41,7 +41,7 @@ SOURCE_URLS = [
     "https://t.me/s/kurdconfing",
     "https://t.me/s/shadowproxy66",
     "https://t.me/s/v2rayalpha",
-    "https://t.me/s/mahsa_net",
+    "https://t.me/s/p1ctok",
     "https://t.me/s/config_jo",
     "https://t.me/s/vless_vpn_ch",
     "https://t.me/s/v2rootconfigpilot",
