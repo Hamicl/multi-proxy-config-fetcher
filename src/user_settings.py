@@ -66,6 +66,7 @@ SOURCE_URLS = [
     "https://t.me/s/archivetell",
     "https://t.me/s/amyraxconfig",
     "https://t.me/s/configx2ray",
+    "https://t.me/s/irv2vpn",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
