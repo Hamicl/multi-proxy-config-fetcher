@@ -76,7 +76,6 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/LalatinaHub/Mineral/refs/heads/master/result/nodes",
     "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt",
     "https://raw.githubusercontent.com/therealaleph/Iran-configs/refs/heads/main/ir_configs.txt",
-    "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
     "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
