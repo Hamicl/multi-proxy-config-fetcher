@@ -72,6 +72,7 @@ SOURCE_URLS = [
     "https://t.me/s/Alpha_V2ray_Iran",
     "https://t.me/s/Farah_VPN",
     "https://t.me/s/amirmrvpn1",
+    "https://t.me/s/VpnMaan",
     "https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt",
     "https://raw.githubusercontent.com/LalatinaHub/Mineral/refs/heads/master/result/nodes",
     "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt",
